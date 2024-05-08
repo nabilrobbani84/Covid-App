@@ -1,0 +1,77 @@
+.container {
+  background: #f8f9fa;
+  background: #F8F9FA;
+  padding: 3rem 2rem;
+}
+
+.title {
+  font-family: poppins;
+  color: #06d6a0;
+  font-size: 61px;
+  font-weight: 500;
+  margin: 0;
+  text-align: center;
+}
+
+.subtitle {
+  color: #F8F9FA;
+  font-size: large;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  text-align: center;
+  padding-left: 35%;
+}
+
+.class_box {
+  border-radius: 20px;
+  text-align: center;
+  background: #06d6a0;
+  margin-bottom: 58px;
+  transition: ease-in all 0.5s;
+}
+
+.h3 {
+  padding: 10% 20%;
+}
+.class_box {
+  /* color: #fff;
+    font-size: 25px;
+    transition: ease-in all 0.5s;
+    font-weight: bold;
+    line-height: 22px;
+    padding: 30px 0; */
+}
+
+.blue {
+  background: #3e0bce;
+}
+
+/* card section */
+.covid__card_container {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+
+.covid__card {
+  flex: 1;
+  background-color: #fff;
+  font-size: 25px;
+  transition: ease-in all 0.5s;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5rem;
+  text-align: center;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 10px 24px;
+  border-radius: 20px;
+  color: #06d6a0;
+}
+
+.covid__number {
+    color: black;
+}
