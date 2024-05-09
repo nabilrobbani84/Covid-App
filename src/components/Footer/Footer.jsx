@@ -6,7 +6,7 @@ export default function Footer(){
             <nav className={styles.footer}>
                 <div className={styles.title}>
                     <p className={styles.footer__brand}>Covid App</p>
-                    <h1>Developed by Nabil</h1>
+                    <p className={styles.p}>Developed by Nabil</p>
                 </div>
                 <div>
                     <ul className={styles.footer__list}>

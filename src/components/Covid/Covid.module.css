@@ -14,8 +14,8 @@
 }
 
 .subtitle {
-  color: #F8F9FA;
-  font-size: large;
+  color: #000000;
+  font-size: 25px;
   text-align: center;
 }
 
@@ -45,11 +45,13 @@
     padding: 30px 0; */
 }
 
-.blue {
-  background: #3e0bce;
-}
 
 /* card section */
+
+.card {
+  color: #118AB2;
+}
+
 .covid__card_container {
   display: flex;
   flex-direction: row;

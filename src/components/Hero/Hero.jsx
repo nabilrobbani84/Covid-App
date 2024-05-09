@@ -9,7 +9,7 @@ export default function Hero() {
                     <h3 className={Styles.hero__genre}>
                         Monitoring Perkembangan Covid
                     </h3>
-                    <p className={Styles.hero__description}> Godzilla dan Kong akan melawan kekuatan baru yang sangat berbahaya. Kedua raksasa kuno itu akan menghadapi ancaman besar dari dasar bumi. Ancaman yang bisa membuat Godzilla maupun Kong punah.</p>
+                    <p className={Styles.hero__description}>"Kunjungi website COVID kami untuk pembaruan terbaru dan sumber daya penting dalam menghadapi pandemi ini. Bersama-sama, kita dapat melawan COVID-19!"</p>
                     <button className={Styles.hero__botton}>Vaccine</button>
                 </div>
                 <div className={Styles.hero__right}>

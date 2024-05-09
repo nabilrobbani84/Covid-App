@@ -13,7 +13,8 @@
   flex-direction: column;
 }
 .title{
-    color: #06d6a0;font-size: 2rem;
+    color: #06d6a0;
+    font-size: 3rem;
 }
 
 .form{
