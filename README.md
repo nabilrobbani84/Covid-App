@@ -1,5 +1,5 @@
 # Covid-App
-Run app : [npm run dev]
+Run app : npm run dev
 
 ## React + Vite
 
